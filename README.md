@@ -64,7 +64,7 @@ AUTORES:
 
 - Durand Galindo Josué Yamil 
 - Llerena Díaz, Diana Mariella 
-- Sánchez Vargas Emelin Fiorella 
+- Sánchez Vargas Evelin Fiorella 
 - Pachas Luis Felipe Lachira 
 - Pasache Mendoza, Eduardho Jair 
 
