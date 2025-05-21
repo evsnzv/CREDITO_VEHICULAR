@@ -60,5 +60,13 @@ Objetivo del Proceso:
 
 Establecer un flujo eficiente y controlado para la gestión de créditos vehiculares, asegurando trazabilidad desde la captación del cliente hasta el desembolso y la formalización de la garantía. Esto permite a la entidad financiera minimizar el riesgo y mejorar la experiencia del cliente. 
 
+AUTORES:
+
+- Durand Galindo Josué Yamil 
+- Llerena Díaz, Diana Mariella 
+- Sánchez Vargas Emelin Fiorella 
+- Pachas Luis Felipe Lachira 
+- Pasache Mendoza, Eduardho Jair 
+
 ![image](https://github.com/user-attachments/assets/90494953-ff9b-4581-8560-92cda9506b48)
 
